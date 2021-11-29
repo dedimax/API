@@ -1,3 +1,3 @@
 # API DEDIMAX
 
-Please read [documentation](https://panel.dedimax.com).
+Please read [documentation](https://api3.dedimax.com).
